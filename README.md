@@ -5,5 +5,5 @@ Installation
 To run this application, you will need to have Node.js and npm installed on your computer. Once you have those installed, follow these steps:
 
 Clone this repository: git clone https://github.com/prateek6391/Movie-Search.git
-Navigate to the project directory: cd movie-search-app
+<br></br>
 Install dependencies: npm install
