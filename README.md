@@ -1,4 +1,5 @@
-Movie Search Application
+<h1>Movie Search Application</h1>
+
 This is a movie search application built using React and the Open Movie Database (OMDb) API. The application allows the user to search for movies by title and displays the results in a list. The user can click on a movie to view more details, such as the plot summary, rating, and poster image.
 
 Installation
